@@ -40,4 +40,4 @@ I'm a passionate Data Engineer with over 3 years of experience, specializing in 
 <!-- Add more projects -->
 
 ## 📰 Latest Medium Articles
-[![Latest Medium Articles](https://img.shields.io/badge/Latest%20Medium%20Articles-Read%20Now-green?style=flat-square)](https://medium.com/feed/@anupamk36)
+[![Latest Medium Articles](https://img.shields.io/badge/Latest%20Medium%20Articles-Read%20Now-green?style=flat-square)](https://medium.com/@anupamk36)
