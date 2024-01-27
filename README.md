@@ -1,4 +1,3 @@
-![logo](https://github.com/anupamk36/github-profile/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 <h3 align="center">A passionate Data Engineer with 3+ years of total experience</h3>
 
